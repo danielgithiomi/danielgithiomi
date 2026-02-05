@@ -4,7 +4,7 @@
 </div>  
   
 
-# <div align="center">Web and Mobile Developer</div>
+# <div align="center">Full-Stack Web and Mobile Developer</div>
 ### <div align="center">Make it work, make it right, make it fast.</div>  
 
 ### <div align="center">🚧 You can view my portfolio <a href="https://danielgithiomi.com" target="_blank">here</a> 🚧</div>
