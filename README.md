@@ -27,7 +27,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -47,9 +47,7 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="25%">
 
 ### Backend  
 <div align="center">  
@@ -69,9 +67,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td><td valign="top" width="25%">
 
 ### DevOps  
 <div align="center">  
@@ -85,7 +81,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>  
 
-
+</td><td valign="top" width="25%">
 
 ### Mobile  
 <div align="center">  
